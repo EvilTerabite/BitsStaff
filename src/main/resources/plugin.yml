@@ -1,0 +1,9 @@
+name: BitsStaff
+version: ${project.version}
+main: me.evilterabite.bitsstaff.BitsStaff
+api-version: 1.16
+authors: [ evilterabite ]
+description: making a full staff plugin from scratch
+commands:
+  freeze:
+    description: Freezes the player!
